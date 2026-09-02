@@ -1,3 +1,3 @@
 compile: 
-	gcc main.c solve.h definitions.c -o cmath
+	gcc main.c definitions.c -o cmath
 	
